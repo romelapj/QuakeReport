@@ -1,1 +1,51 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Progress library
+progress/build
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+.idea/
+.gradle
+/*/out
+/*/*/build
 /build
+/app/build/
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+.DS_Store
+*.jks
+un7zip/build
+*.hprof
+
+reports
+captures
+
+.idea/instapk.xml
+instapk.log*
+
+*project_signing.properties
+
+/gradle.properties
+gradle.properties
